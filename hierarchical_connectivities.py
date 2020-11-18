@@ -23,7 +23,7 @@ def adjacency_maker(row):
         
     return(adjacency_matrix)
     
-    def hierarchical_connectivities(base,n,m):
+def hierarchical_connectivities(base,n,m):
     """Construction of the hierarchical network connectivity. 
     Parameters
     ----------
