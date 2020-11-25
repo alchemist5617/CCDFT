@@ -1,3 +1,5 @@
+import numpy as np
+
 def logistic(x0,a,tmax):
     '''
     Logistic map
